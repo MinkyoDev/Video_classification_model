@@ -1,0 +1,8 @@
+*.mp4
+*.pt
+*.avi
+
+models/
+.idea/
+/__pycache__/
+*/__pycache__/
